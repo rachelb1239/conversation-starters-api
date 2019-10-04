@@ -1,0 +1,19 @@
+{
+  "name": "conversation-starters-api",
+  "version": "1.0.0",
+  "description": "Conversation starters api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelb1239/conversation-starters-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelb1239/conversation-starters-api/issues"
+  },
+  "homepage": "https://github.com/rachelb1239/conversation-starters-api#readme"
+}
