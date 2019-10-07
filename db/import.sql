@@ -1,0 +1,3 @@
+-- Build import statement for csv file
+-- COPY questions ()
+-- FROM '/questions.csv' DELIMITER ',' CSV HEADER;
